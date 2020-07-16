@@ -1,9 +1,12 @@
+
 # Generation Clean Page:sparkles:
 [![GitHub issues](https://img.shields.io/github/issues/bielzin42/generation-fresh-page)](https://github.com/bielzin42/generation-fresh-page/issues) [![GitHub stars](https://img.shields.io/github/stars/bielzin42/generation-fresh-page)](https://github.com/bielzin42/generation-fresh-page/stargazers) 
 
 Script que limpa o menu lateral e expande o video para facilitar a visualização em uma tela,
 sendo assim, capaz de acompanhar a aula e codar ao mesmo tempo :rocket:
 >site atual: [http://generationbrasil.online/login](http://generationbrasil.online/login)
+
+> [english version](https://github.com/bielzin42/generation-clean-page/blob/master/README-en.md)
 
   
 
