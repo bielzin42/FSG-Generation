@@ -9,7 +9,7 @@ sendo assim, capaz de acompanhar a aula e codar ao mesmo tempo :rocket:
 
 ## modo de uso 
 
-Abra o arquivo JS com seu editor de texto favorito, copie e cole no terminal do seu navegador favorito.
+Abra o arquivo ```clean-me``` JS com seu editor de texto favorito, copie e cole no terminal do seu navegador favorito.
 ```
 function  wideVideo (){
 var  video  =  document.getElementById("myVideo");
@@ -23,9 +23,9 @@ col9.item(0).classList.add('col-md-12');
 //to auto use the function after running the code, uncomment the line below.
 //wideVideo()
 ```
-A partir deste ponto a função ```wideVideo()``` foi criada e você precisa somente invocá-la quando quiser ativar.
+A partir deste ponto a função ```wideVideo()``` foi criada e você precisa somente invocá-la no console quando quiser ativar.
 
-**Nota**: Lembrando que essas função tem que ser reescrita no console sempre que o site for aberto e que a função deverá ser invocada a cada aula.
+**Nota**: Lembrando que essas função tem que ser reescrita no console sempre que o site for aberto e que a função deverá ser invocada a cada aula/refresh.
 
 # Casos de uso
 

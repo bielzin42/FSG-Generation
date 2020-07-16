@@ -1,3 +1,6 @@
+/*function that temporaly modifies the DOM elements to provide a better experience
+to the users. */
+
 function wideVideo() {
     var video = document.getElementById("myVideo");
     video.removeAttribute('width');
